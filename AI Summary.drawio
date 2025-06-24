@@ -22,14 +22,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="760" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="750" y="781" />
+              <mxPoint x="750" y="760" />
               <mxPoint x="750" y="607" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yvR9GkOpiEJK5_yl31AZ-27" value="&lt;font&gt;6. response Ai Summary&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" vertex="1" connectable="0" parent="yvR9GkOpiEJK5_yl31AZ-26">
           <mxGeometry x="-0.0702" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-26" as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KK2GNfCkV2JybxImIfIo-27" value="data team" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;rounded=1;fontStyle=1;" parent="1" vertex="1">
@@ -70,13 +70,13 @@
             <mxPoint x="698" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="610" />
-              <mxPoint x="560" y="770" />
+              <mxPoint x="560" y="748" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KK2GNfCkV2JybxImIfIo-54" value="5. send QIMAOne report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="KK2GNfCkV2JybxImIfIo-52" vertex="1" connectable="0">
           <mxGeometry x="-0.0827" y="-4" relative="1" as="geometry">
-            <mxPoint x="-6" y="-6" as="offset" />
+            <mxPoint x="-6" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yvR9GkOpiEJK5_yl31AZ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KK2GNfCkV2JybxImIfIo-60" target="KK2GNfCkV2JybxImIfIo-35">
