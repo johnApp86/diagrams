@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvR9GkOpiEJK5_yl31AZ-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;6. response Ai Summary&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yvR9GkOpiEJK5_yl31AZ-26">
+        <mxCell id="yvR9GkOpiEJK5_yl31AZ-27" value="&lt;font&gt;6. response Ai Summary&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" vertex="1" connectable="0" parent="yvR9GkOpiEJK5_yl31AZ-26">
           <mxGeometry x="-0.0702" y="-2" relative="1" as="geometry">
             <mxPoint x="-2" y="-26" as="offset" />
           </mxGeometry>
